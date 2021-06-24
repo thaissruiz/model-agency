@@ -1,0 +1,22 @@
+{
+  "name": "nodemodel",
+  "version": "1.0.0",
+  "description": "project-node-model",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thais Mariane Soares Ruiz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.22.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.14",
+    "serve-static": "^1.14.1"
+  }
+}

@@ -1,0 +1,120 @@
+
+.title h1{
+    text-align: center;
+    color: white;
+    font-family: 'Codystar','cursive';
+    font-style: 100px;
+    padding: 3px;
+    margin-bottom: 60px;
+    margin-left: 470px;
+    width: 400px;
+
+}
+.title h1:hover{
+    color: goldenrod;
+}
+
+section{
+    
+    background-image: radial-gradient(circle at 87.5% 12.5%, #534823 0, #2d215a 50%, #0a0000 100%);
+    margin: 0 auto;
+    width: 70%; /* Valor da Largura */
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+
+}
+.form-control{
+    margin: 0 auto;
+    width: 70%; /* Valor da Largura */
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.form-check{
+    margin-left: 78px;
+
+}
+
+.col-6{
+    margin: 0 auto;
+    width: 50%; /* Valor da Largura */
+    margin-left: 13%;
+
+}
+
+label{
+    margin-top: 8px;
+    margin-left: 14%;
+    color: goldenrod;
+    font-size: 18px;
+    
+}
+#gender{
+    color: white;
+    font-size: 20px;
+}
+
+h1{
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: 40px;
+}
+h2{
+    color: rgb(229, 229, 241);
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+p{
+    margin-left: 2px;
+    color: rgb(209, 208, 208);
+    margin-top: 1px;
+    font-size: 25px;
+}
+
+.tips{
+
+    margin-left: 2px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 25px;
+
+
+}
+.footer- text{
+    color: goldenrod;
+}
+
+.form-check{
+    margin-left: 20%;
+}
+#submit{
+    background-color: rgb(230, 201, 130);
+    color: rgb(109, 109, 241);
+    border: none;
+    margin-left: 43%;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    padding: auto;
+}
+
+
+#submit:hover{
+
+    background-color: darkgoldenrod;
+    color: white;
+
+
+}
+
+#footer-p{
+    color: rgb(104, 89, 51);
+    font-size: 20px;
+}
+

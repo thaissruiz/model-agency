@@ -1,0 +1,60 @@
+
+.title h1{
+    text-align: center;
+    color: white;
+    font-family: 'Codystar','cursive';
+    font-style: 100px;
+    padding: 3px;
+    margin-bottom: 60px;
+    margin-left: 130%;
+    width: 400px;
+
+}
+.title h1:hover{
+    color: goldenrod;
+}
+
+
+.maps{
+   
+    padding: 10px;
+}
+.information{
+    margin-top: 50px;
+}
+.information h2{
+    color: white;
+}
+.textarea{
+    width: 200px;
+}
+#textarea{
+    
+    height: 100px;
+
+}
+
+
+label{
+    color: white;
+}
+#submit{
+    background-color: rgb(230, 201, 130);
+    color: rgb(109, 109, 241);
+    border: none;
+    margin-top: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    padding: auto;
+}
+
+
+#submit:hover{
+
+    background-color: darkgoldenrod;
+    color: white;
+
+
+}

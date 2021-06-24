@@ -1,0 +1,36 @@
+
+.title h1{
+    text-align: center;
+    color: white;
+    font-family: 'Codystar','cursive';
+    font-style: 100px;
+    padding: 3px;
+    margin-bottom: 60px;
+    margin-left: 130%;
+    width: 400px;
+
+}
+.title h1:hover{
+    color: goldenrod;
+}
+.message-agency{
+    margin-top: 50px;
+
+}
+.message-agency h1{
+    text-align: center;
+    color: white
+}
+
+.message-agency p{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+
+#img-agency{
+    width: 500px;
+    height: 600px;
+    margin-top: 50px;
+}

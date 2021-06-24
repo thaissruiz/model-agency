@@ -1,0 +1,48 @@
+.video{
+
+    padding: 5px;
+   
+}
+#video{
+    width:80%;
+    margin-left: 40px;
+}
+
+.news h2{
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+.news h2:hover{
+    color: goldenrod;
+}
+.news a{
+    text-decoration: none;
+}
+#news-1{
+    width: 300px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+    
+}
+
+footer{
+    margin-top: 200px;
+}
+
+
+.title h1{
+    text-align: center;
+    color: white;
+    font-family: 'Codystar','cursive';
+    font-style: 100px;
+    padding: 3px;
+    margin-bottom: 60px;
+    margin-left: 470px;
+    width: 400px;
+
+}
+.title h1:hover{
+    color: goldenrod;
+}

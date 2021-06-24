@@ -1,0 +1,92 @@
+body{
+    padding: 80px;
+}
+
+
+h2{
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+tr{
+    color: rgb(44, 41, 41);
+}
+
+
+button{
+    width: 40px;
+    height: 30px;
+    border-radius: 3px;
+    background-image: url(./icone.png);
+}
+img{
+    width: 30px;
+    height: 23px;
+
+}
+
+.modal .modal-content{
+    overflow:hidden;
+    background-image:linear-gradient(white, rgb(163, 157, 157)); 
+    width: 100%;
+}
+
+.modal-body{
+    max-height: 300px;
+    overflow-y:scroll;
+    width: 100%;
+    background-image:linear-gradient(white, rgb(163, 157, 157),); 
+    
+}
+
+h5 {
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    color: rgb(53, 37, 105);
+    
+}
+label{
+    color: rgb(36, 36, 37);
+  
+}
+
+
+.form-control{
+  background-color: white;
+  box-shadow: lightsteelblue 2px;
+  width: 420px;
+}
+
+
+
+
+.btn-save{
+    width: 60px;
+}
+
+ #submit{
+     background-color: goldenrod;
+ }
+
+.join-us h2{
+    font-size: 35px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: steelblue;
+} 
+
+
+.img-thumbnail {
+    width: 250px;
+    height: 250px;
+    max-width: 250px;
+    max-height: 250px;
+    margin: 15px;
+}
+
+#photo-modal-mody {
+    text-align: center;
+}

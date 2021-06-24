@@ -1,0 +1,208 @@
+body{
+    background-color:black;
+}
+.site-wrapper{
+    background-color:black;
+    
+}
+
+
+
+
+/*MENU NAVEGACAO */
+
+.nav-link{
+    background-color: black;
+    color: white;
+    font-family: 'Codystar','cursive';
+}
+
+.dropdown-menu{
+    background-color: black;
+    color: white;
+}
+.dropdown-item{ 
+    font-family: 'Codystar','cursive';
+    background-color: black;
+    color: white;
+
+}
+
+.dropdown-item:hover{ 
+    font-family: 'Codystar','cursive';
+    background-color: rgb(46, 44, 44);
+    color: white;
+
+}
+
+
+.navbar{
+    margin-top:10px;
+    
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 30px;
+}
+
+header{
+  
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+
+#carouselExampleSlidesOnly{
+    margin: auto;
+
+}
+
+
+
+/*INDEX - APRESENTACAO DA AGENCIA*/
+.container-apresentation{
+    
+    margin-top: 30px;
+   
+
+}
+.apresentation {
+    font-family: 'Italiana', serif;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-left:30%;
+    margin-top: 100px;
+    
+    width: 100%;
+
+}
+.apresentation h1{
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*FOOTER*/
+footer{
+   margin: auto;
+   
+  
+}
+
+.nav-footer{
+
+    margin-top:30px;
+    margin-left: 200px;
+    width: 800px;
+    height: 200px;
+
+    
+}
+
+.nav-item-footer{
+ 
+    margin-top: 80px;
+     width: 150px;
+     
+}
+.nav-link-footer { 
+    color: white;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+   
+
+   
+   
+    
+    
+}
+
+.nav-item-footer a{
+    text-decoration: none;
+     font-size: 30px;
+     margin-top: 30px;
+    text-shadow: goldenrod 0.1em 0.1em 0.1em;
+    font-family: 'Italiana', serif;
+    text-decoration: none;
+  
+  
+}
+
+
+.footer-text{
+    margin-left:65%;
+    margin-top: 10px;
+    color: rgb(104, 89, 51);
+    font-size: 20px;
+   
+
+}
+
+.social-media{
+    margin-top: 30px;
+    margin-left: 50%;
+    margin-bottom: 20px;
+    text-align: center;
+    position: relative;
+    color: white;
+     text-shadow: goldenrod 0.1em 0.1em 0.1em;
+  
+
+}
+#logo-footer{
+    margin-left: 500px;
+ 
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+ 
+  
+  /* Facebook */
+  .fa-facebook {
+    background: black;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: black;
+    color: white;
+  }
+  /*Instagram*/
+  .fa-instagram {
+    background: black;
+    color: white;
+  }
+  .social-media a{
+      font-size: 30px;
+      text-decoration: none;
+  }
+
